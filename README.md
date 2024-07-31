@@ -3,6 +3,7 @@
 Hal pertama yang perlu anda lakukan untuk membuat projek Indoor Air Quality apabila menggunakan MQ135 adalah : 
 
 1. Mengganti nilai resistor (RL) bawaan pada sensor MQ135 dengan resistor sebesar 20kΩ. Untuk lebih jelasnya anda bisa lihat di datasheet : https://www.olimex.com/Products/Components/Sensors/Gas/SNS-MQ135/resources/SNS-MQ135.pdf
+![WhatsApp Image 2024-07-31 at 20 49 23](https://github.com/user-attachments/assets/d339861a-4931-45e4-af07-23d0b837c241)
 
 2. Mencari nilai a dan b dari grafik pengujian yang terdapat pada datasheet kemudian gunakan power regression, lebih lengkapnya bisa membaca di blog ini : https://davidegironi.blogspot.com/2017/05/mq-gas-sensor-correlation-function.html#.XyxLkIgzbb0
 
